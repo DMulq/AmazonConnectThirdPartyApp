@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c950918a.css",
+    "main.js": "/static/js/main.b42d09ba.js",
+    "static/js/787.f9285100.chunk.js": "/static/js/787.f9285100.chunk.js",
+    "static/media/3PAppsBanner.png": "/static/media/3PAppsBanner.cc0aef4b18b3a3fb2a00.png",
+    "index.html": "/index.html",
+    "main.c950918a.css.map": "/static/css/main.c950918a.css.map",
+    "main.b42d09ba.js.map": "/static/js/main.b42d09ba.js.map",
+    "787.f9285100.chunk.js.map": "/static/js/787.f9285100.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c950918a.css",
+    "static/js/main.b42d09ba.js"
+  ]
+}
